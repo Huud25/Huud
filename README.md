@@ -1,12 +1,12 @@
 # Huud
 
-<h1 align="center">Hi 👋, I'm Vitor</h1>
+<h1 align="center">Greetings, 👋, I'm Vitor</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="<a href="https://ibb.co/hJL7YrCf"><img src="https://i.ibb.co/hJL7YrCf/Projeto-sem-nome-Camada-2.png" alt="Projeto-sem-nome-Camada-2" border="0"></a>">
   <source media="(prefers-color-scheme: light)" srcset="<a href="https://ibb.co/hJL7YrCf"><img src="https://i.ibb.co/hJL7YrCf/Projeto-sem-nome-Camada-2.png" alt="Projeto-sem-nome-Camada-2" border="0"></a>">
   <img alt="My anime profile photo" src="<a href="https://ibb.co/hJL7YrCf"><img src="https://i.ibb.co/hJL7YrCf/Projeto-sem-nome-Camada-2.png" alt="Projeto-sem-nome-Camada-2" border="0"></a>">
 </picture>
-<h3 align="center">A passionate computer science student exploring the frontiers of technology.</h3>
+<h3 align="center">A dedicated computer science student committed to mastering complex systems and advancing pragmatic technology solutions.</h3>
 
 - 🔭 I’m currently working on **Feedback system for identifying improvements.**
 
