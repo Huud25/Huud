@@ -1,6 +1,6 @@
 <div align="center">
 
-Vitor **Huud** — Computer Science Student & Tech Enthusiast  
+Vitor **"Huud"** — Computer Science Student & Tech Enthusiast  
 🔗 https://www.linkedin.com/in/vitorhg/
 
 <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-111111?style=for-the-badge&logo=github&logoColor=white" />
